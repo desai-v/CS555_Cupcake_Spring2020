@@ -1,0 +1,40 @@
+Error: INDIVIDUAL: US01: Birth date after current date@I44@ Drashti /Vohra/ 2922-01-15
+Error: INDIVIDUAL: US02: @I28@ Malika /Sherawat/ was born before marriage
+Error: INDIVIDUAL: US02: @I69@ Kol /Singh/ was born before marriage
+Error: INDIVIDUAL: US03: @I26@ Anakin /Skwalker/ were born before they died 
+Error: INDIVIDUAL: US03: @I44@ Drashti /Vohra/ were born before they died 
+ERROR: FAMILY: us04: @F8@: divorce 1974-05-11 00:00:00 before marriage 1975-10-01 00:00:00 
+ERROR: INDIVIDUAL : US05 : @I26@ : Married 1940-12-03 00:00:00 after husband's (@I26@) death on 1920-04-02 00:00:00 
+ERROR: FAMILY : US06 : @I25@ : Divorced 2010-01-01 00:00:00 after wifi's (@I25@) death on 1955-05-04 00:00:00 
+ERROR: FAMILY : US06 : @I26@ : Divorced 2010-01-01 00:00:00 after husband's (@I26@) death on 1920-04-02 00:00:00 
+Error: INDIVIDUAL: US08: -> @I19@, Birth before marriage of parents 
+Error: INDIVIDUAL: US08: -> @I13@, Birth before marriage of parents 
+Error: INDIVIDUAL: US09: @I27@ Luke /Skywalker/ Birth after death of parents  
+Error: INDIVIDUAL: US09: @I29@ Leia /Skywalker/ Birth after death of parents  
+Error: INDIVIDUAL: US09: @I39@ Yoda /Skywaler/ Birth after death of parents  
+Error: INDIVIDUAL: US09: @I58@ Miami /Patel/ Birth after death of parents  
+Error: INDIVIDUAL: US09: @I67@ Deep /Singh/ Birth after death of parents  
+Error: INDIVIDUAL: US09: @I70@ Meetu /Singh/ Birth after death of parents  
+Error: INDIVIDUAL: US09: @I70@ Meetu /Singh/ Birth after death of parents  
+Error: INDIVIDUAL: US09: @I60@ Bulbul /Patel/ Birth after death of parents  
+Error: INDIVIDUAL: US10: Too young for marriage @I15@ 2019-11-12 00:00:00
+Error: INDIVIDUAL: US10: Too young for marriage @I23@ 1919-02-08 00:00:00
+Error: INDIVIDUAL: US10: Too young for marriage @I24@ 1919-02-08 00:00:00
+Error: INDIVIDUAL: US10: Too young for marriage @I28@ 1975-07-10 00:00:00
+Error: INDIVIDUAL: US10: Too young for marriage @I36@ 2020-01-03 00:00:00
+Error: INDIVIDUAL: US10: Too young for marriage @I37@ 2020-01-03 00:00:00
+Error: INDIVIDUAL: US10: Too young for marriage @I2@ 1978-01-22 00:00:00
+Error: INDIVIDUAL: US10: Too young for marriage @I59@ 1970-04-03 00:00:00
+Error: INDIVIDUAL: US10: Too young for marriage @I69@ 1980-03-03 00:00:00
+ERROR: FAMILY : US11 : @I1@ : Individual is in mutliple families at once  
+Error: INDIVIDUAL: US12: @I44@ Drashti /Vohra/ Parents are too old
+Error: INDIVIDUAL: US12: @I69@ Kol /Singh/ Parents are too old
+Error: FAM: US15: More than 15 siblings in a family@F9@
+Error: FAM: US 16: Single family has two or more last name @F12@
+Error: FAM: US 16: Single family has two or more last name @F16@
+Error: FAM: US 16: Single family has two or more last name @F1@
+Error: FAM: US 16: Single family has two or more last name @F3@
+Error: FAM: US 16: Single family has two or more last name @F4@
+Error: FAM: US 16: Single family has two or more last name @F9@
+Error: FAMILY: US18: spouses @I36@ and @I37@ are siblings 
+Error: US 20 Individual @I69@ has married their aunt/uncle @I70@
